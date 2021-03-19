@@ -5,3 +5,5 @@
 ## Balance Cascade
 
 * 19/03 : Start implementation of the balance cascade ensembling technique
+
+to check: https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now
