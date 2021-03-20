@@ -5,5 +5,6 @@
 ## Balance Cascade
 
 * 19/03 : Start implementation of the balance cascade ensembling technique
+* 20/03 : Implementaion of easyensemble + SPE from scratch
 
-to check: https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now
+Tomorrow make the code readable and perfect for reuse in kaggle notebook. Read the paper another time: https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble.pdf
