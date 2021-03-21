@@ -1,10 +1,10 @@
 # From_scratch_series
 
 * In this repo I will put all the different method to deal with imbalanced dataset. I will put their code from scratch.
+* Interesting papers: https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble.pdf | https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm06d.pdf
 
 ## Balance Cascade
 
-* 19/03 : Start implementation of the balance cascade ensembling technique
-* 20/03 : Implementaion of easyensemble + SPE from scratch
+## EasyEnsemble
 
-Tomorrow make the code readable and perfect for reuse in kaggle notebook. Read the paper another time: https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble.pdf
+## Self Paced Ensemble
